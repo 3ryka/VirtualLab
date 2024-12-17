@@ -3,7 +3,6 @@
     "name": "VirtualLab",
     "slug": "VirtualLab",
     "version": "1.0.0",
-    "owner": "uas_pawm_kelompok16",
     "orientation": "portrait",
     "icon": "./assets/images/icon-fun4eng.png",
     "scheme": "myapp",
