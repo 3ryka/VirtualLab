@@ -5,7 +5,7 @@ const About: React.FC = () => {
   return (
     <ScrollView style={styles.container}>
       <Text style={styles.title}>About Us</Text>
-      <Text style={styles.content}>This is the about page content.</Text>
+      <Text style={styles.content}>Virtual Lab was first developed in 2024.</Text>
 
       <Text style={styles.sectionTitle}>Contact Us</Text>
 

@@ -11,7 +11,7 @@ const Index: React.FC = () => {
     >
       <View style={styles.overlay}>
         <Text style={styles.title}>Learn English with Fun!</Text>
-        <Text style={styles.subtitle}>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Text>
+        <Text style={styles.subtitle}>Fun4Eng is a virtual lab to learn English virtually.</Text>
         <Link href="/modules" asChild>
           <TouchableOpacity style={globalStyles.button}>
             <Text style={globalStyles.buttonText}>Get Started</Text>
